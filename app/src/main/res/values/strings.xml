@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Shippo</string>
+    <string name="Trangchinh">Trang chính</string>
+    <string name="Sanphammoinhat">Sản phẩm mới nhất</string>
+    <string name="Dienthoai">Điện thoại</string>
+    <string name="tensp">Tên sản phẩm</string>
+</resources>
